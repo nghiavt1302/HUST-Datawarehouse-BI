@@ -1,0 +1,129 @@
+ID Gender,Gender,ID IPEDS Race,IPEDS Race,ID Year,Year,ID University,University,Completions,Slug University,share
+1,Men,asian,Asian,2019,2019,193900,New York University,1022,new-york-university,0.06119394
+1,Men,black,Black or African American,2019,2019,193900,New York University,239,new-york-university,0.01431052
+1,Men,hawaiian,Native Hawaiian or Other Pacific Islanders,2019,2019,193900,New York University,7,new-york-university,0.000419137
+1,Men,hispanic,Hispanic or Latino,2019,2019,193900,New York University,585,new-york-university,0.035027843
+1,Men,multiracial,Two or More Races,2019,2019,193900,New York University,183,new-york-university,0.010957428
+1,Men,native,American Indian or Alaska Native,2019,2019,193900,New York University,9,new-york-university,0.00053889
+1,Men,nonresident,Non-resident Alien,2019,2019,193900,New York University,2591,new-york-university,0.155140411
+1,Men,white,White,2019,2019,193900,New York University,2352,new-york-university,0.14082989
+2,Women,asian,Asian,2019,2019,193900,New York University,1335,new-york-university,0.079935333
+2,Women,black,Black or African American,2019,2019,193900,New York University,592,new-york-university,0.035446979
+2,Women,hawaiian,Native Hawaiian or Other Pacific Islanders,2019,2019,193900,New York University,10,new-york-university,0.000598767
+2,Women,hispanic,Hispanic or Latino,2019,2019,193900,New York University,997,new-york-university,0.059697024
+2,Women,multiracial,Two or More Races,2019,2019,193900,New York University,331,new-york-university,0.019819173
+2,Women,native,American Indian or Alaska Native,2019,2019,193900,New York University,9,new-york-university,0.00053889
+2,Women,nonresident,Non-resident Alien,2019,2019,193900,New York University,3167,new-york-university,0.189629364
+2,Women,white,White,2019,2019,193900,New York University,3272,new-york-university,0.195916412
+1,Men,asian,Asian,2018,2018,193900,New York University,1062,new-york-university,0.065539373
+1,Men,black,Black or African American,2018,2018,193900,New York University,240,new-york-university,0.014811158
+1,Men,hawaiian,Native Hawaiian or Other Pacific Islanders,2018,2018,193900,New York University,4,new-york-university,0.000246853
+1,Men,hispanic,Hispanic or Latino,2018,2018,193900,New York University,580,new-york-university,0.035793631
+1,Men,multiracial,Two or More Races,2018,2018,193900,New York University,183,new-york-university,0.011293508
+1,Men,native,American Indian or Alaska Native,2018,2018,193900,New York University,5,new-york-university,0.000308566
+1,Men,nonresident,Non-resident Alien,2018,2018,193900,New York University,2595,new-york-university,0.160145643
+1,Men,white,White,2018,2018,193900,New York University,2336,new-york-university,0.144161935
+2,Women,asian,Asian,2018,2018,193900,New York University,1273,new-york-university,0.078560849
+2,Women,black,Black or African American,2018,2018,193900,New York University,591,new-york-university,0.036472476
+2,Women,hawaiian,Native Hawaiian or Other Pacific Islanders,2018,2018,193900,New York University,20,new-york-university,0.001234263
+2,Women,hispanic,Hispanic or Latino,2018,2018,193900,New York University,953,new-york-university,0.058812639
+2,Women,multiracial,Two or More Races,2018,2018,193900,New York University,308,new-york-university,0.019007652
+2,Women,native,American Indian or Alaska Native,2018,2018,193900,New York University,14,new-york-university,0.000863984
+2,Women,nonresident,Non-resident Alien,2018,2018,193900,New York University,2841,new-york-university,0.17532708
+2,Women,white,White,2018,2018,193900,New York University,3199,new-york-university,0.19742039
+1,Men,asian,Asian,2017,2017,193900,New York University,1038,new-york-university,0.067232334
+1,Men,black,Black or African American,2017,2017,193900,New York University,263,new-york-university,0.017034782
+1,Men,hawaiian,Native Hawaiian or Other Pacific Islanders,2017,2017,193900,New York University,6,new-york-university,0.000388626
+1,Men,hispanic,Hispanic or Latino,2017,2017,193900,New York University,502,new-york-university,0.032515059
+1,Men,multiracial,Two or More Races,2017,2017,193900,New York University,153,new-york-university,0.009909968
+1,Men,native,American Indian or Alaska Native,2017,2017,193900,New York University,10,new-york-university,0.00064771
+1,Men,nonresident,Non-resident Alien,2017,2017,193900,New York University,2424,new-york-university,0.157004987
+1,Men,white,White,2017,2017,193900,New York University,2333,new-york-university,0.151110823
+2,Women,asian,Asian,2017,2017,193900,New York University,1214,new-york-university,0.078632036
+2,Women,black,Black or African American,2017,2017,193900,New York University,498,new-york-university,0.032255975
+2,Women,hawaiian,Native Hawaiian or Other Pacific Islanders,2017,2017,193900,New York University,10,new-york-university,0.00064771
+2,Women,hispanic,Hispanic or Latino,2017,2017,193900,New York University,859,new-york-university,0.055638319
+2,Women,multiracial,Two or More Races,2017,2017,193900,New York University,283,new-york-university,0.018330203
+2,Women,native,American Indian or Alaska Native,2017,2017,193900,New York University,8,new-york-university,0.000518168
+2,Women,nonresident,Non-resident Alien,2017,2017,193900,New York University,2491,new-york-university,0.161344647
+2,Women,white,White,2017,2017,193900,New York University,3347,new-york-university,0.216788652
+1,Men,asian,Asian,2016,2016,193900,New York University,931,new-york-university,0.061375173
+1,Men,black,Black or African American,2016,2016,193900,New York University,254,new-york-university,0.016744677
+1,Men,hawaiian,Native Hawaiian or Other Pacific Islanders,2016,2016,193900,New York University,4,new-york-university,0.000263696
+1,Men,hispanic,Hispanic or Latino,2016,2016,193900,New York University,454,new-york-university,0.029929461
+1,Men,multiracial,Two or More Races,2016,2016,193900,New York University,145,new-york-university,0.009558969
+1,Men,native,American Indian or Alaska Native,2016,2016,193900,New York University,4,new-york-university,0.000263696
+1,Men,nonresident,Non-resident Alien,2016,2016,193900,New York University,2270,new-york-university,0.149647307
+1,Men,white,White,2016,2016,193900,New York University,2470,new-york-university,0.162832092
+2,Women,asian,Asian,2016,2016,193900,New York University,1283,new-york-university,0.084580394
+2,Women,black,Black or African American,2016,2016,193900,New York University,512,new-york-university,0.033753049
+2,Women,hawaiian,Native Hawaiian or Other Pacific Islanders,2016,2016,193900,New York University,7,new-york-university,0.000461467
+2,Women,hispanic,Hispanic or Latino,2016,2016,193900,New York University,879,new-york-university,0.057947129
+2,Women,multiracial,Two or More Races,2016,2016,193900,New York University,227,new-york-university,0.014964731
+2,Women,native,American Indian or Alaska Native,2016,2016,193900,New York University,20,new-york-university,0.001318478
+2,Women,nonresident,Non-resident Alien,2016,2016,193900,New York University,2422,new-york-university,0.159667743
+2,Women,white,White,2016,2016,193900,New York University,3287,new-york-university,0.216691938
+1,Men,asian,Asian,2015,2015,193900,New York University,950,new-york-university,0.066624588
+1,Men,black,Black or African American,2015,2015,193900,New York University,230,new-york-university,0.016130163
+1,Men,hawaiian,Native Hawaiian or Other Pacific Islanders,2015,2015,193900,New York University,4,new-york-university,0.000280525
+1,Men,hispanic,Hispanic or Latino,2015,2015,193900,New York University,396,new-york-university,0.027771934
+1,Men,multiracial,Two or More Races,2015,2015,193900,New York University,105,new-york-university,0.00736377
+1,Men,native,American Indian or Alaska Native,2015,2015,193900,New York University,19,new-york-university,0.001332492
+1,Men,nonresident,Non-resident Alien,2015,2015,193900,New York University,2070,new-york-university,0.145171471
+1,Men,white,White,2015,2015,193900,New York University,2447,new-york-university,0.171610912
+2,Women,asian,Asian,2015,2015,193900,New York University,1174,new-york-university,0.082333965
+2,Women,black,Black or African American,2015,2015,193900,New York University,469,new-york-university,0.032891507
+2,Women,hawaiian,Native Hawaiian or Other Pacific Islanders,2015,2015,193900,New York University,6,new-york-university,0.000420787
+2,Women,hispanic,Hispanic or Latino,2015,2015,193900,New York University,767,new-york-university,0.053790588
+2,Women,multiracial,Two or More Races,2015,2015,193900,New York University,167,new-york-university,0.011711901
+2,Women,native,American Indian or Alaska Native,2015,2015,193900,New York University,24,new-york-university,0.001683147
+2,Women,nonresident,Non-resident Alien,2015,2015,193900,New York University,2114,new-york-university,0.148257241
+2,Women,white,White,2015,2015,193900,New York University,3317,new-york-university,0.232625009
+1,Men,asian,Asian,2014,2014,193900,New York University,1008,new-york-university,0.074849632
+1,Men,black,Black or African American,2014,2014,193900,New York University,201,new-york-university,0.014925373
+1,Men,hawaiian,Native Hawaiian or Other Pacific Islanders,2014,2014,193900,New York University,14,new-york-university,0.001039578
+1,Men,hispanic,Hispanic or Latino,2014,2014,193900,New York University,354,new-york-university,0.026286478
+1,Men,multiracial,Two or More Races,2014,2014,193900,New York University,89,new-york-university,0.006608747
+1,Men,native,American Indian or Alaska Native,2014,2014,193900,New York University,11,new-york-university,0.000816811
+1,Men,nonresident,Non-resident Alien,2014,2014,193900,New York University,1417,new-york-university,0.105220168
+1,Men,white,White,2014,2014,193900,New York University,2454,new-york-university,0.182223212
+2,Women,asian,Asian,2014,2014,193900,New York University,1316,new-york-university,0.097720353
+2,Women,black,Black or African American,2014,2014,193900,New York University,464,new-york-university,0.034454593
+2,Women,hawaiian,Native Hawaiian or Other Pacific Islanders,2014,2014,193900,New York University,13,new-york-university,0.000965323
+2,Women,hispanic,Hispanic or Latino,2014,2014,193900,New York University,595,new-york-university,0.044182075
+2,Women,multiracial,Two or More Races,2014,2014,193900,New York University,227,new-york-university,0.016856018
+2,Women,native,American Indian or Alaska Native,2014,2014,193900,New York University,14,new-york-university,0.001039578
+2,Women,nonresident,Non-resident Alien,2014,2014,193900,New York University,1812,new-york-university,0.134551125
+2,Women,white,White,2014,2014,193900,New York University,3478,new-york-university,0.258260934
+1,Men,asian,Asian,2013,2013,193900,New York University,960,new-york-university,0.075282309
+1,Men,black,Black or African American,2013,2013,193900,New York University,205,new-york-university,0.01607591
+1,Men,hawaiian,Native Hawaiian or Other Pacific Islanders,2013,2013,193900,New York University,4,new-york-university,0.000313676
+1,Men,hispanic,Hispanic or Latino,2013,2013,193900,New York University,324,new-york-university,0.025407779
+1,Men,multiracial,Two or More Races,2013,2013,193900,New York University,47,new-york-university,0.003685696
+1,Men,native,American Indian or Alaska Native,2013,2013,193900,New York University,14,new-york-university,0.001097867
+1,Men,nonresident,Non-resident Alien,2013,2013,193900,New York University,1228,new-york-university,0.09629862
+1,Men,white,White,2013,2013,193900,New York University,2402,new-york-university,0.18836261
+2,Women,asian,Asian,2013,2013,193900,New York University,1317,new-york-university,0.103277917
+2,Women,black,Black or African American,2013,2013,193900,New York University,480,new-york-university,0.037641154
+2,Women,hawaiian,Native Hawaiian or Other Pacific Islanders,2013,2013,193900,New York University,10,new-york-university,0.000784191
+2,Women,hispanic,Hispanic or Latino,2013,2013,193900,New York University,611,new-york-university,0.047914053
+2,Women,multiracial,Two or More Races,2013,2013,193900,New York University,78,new-york-university,0.006116688
+2,Women,native,American Indian or Alaska Native,2013,2013,193900,New York University,29,new-york-university,0.002274153
+2,Women,nonresident,Non-resident Alien,2013,2013,193900,New York University,1411,new-york-university,0.11064931
+2,Women,white,White,2013,2013,193900,New York University,3632,new-york-university,0.284818068
+1,Men,asian,Asian,2012,2012,193900,New York University,902,new-york-university,0.072642345
+1,Men,black,Black or African American,2012,2012,193900,New York University,171,new-york-university,0.013771442
+1,Men,hawaiian,Native Hawaiian or Other Pacific Islanders,2012,2012,193900,New York University,4,new-york-university,0.000322139
+1,Men,hispanic,Hispanic or Latino,2012,2012,193900,New York University,333,new-york-university,0.026818072
+1,Men,multiracial,Two or More Races,2012,2012,193900,New York University,23,new-york-university,0.001852299
+1,Men,native,American Indian or Alaska Native,2012,2012,193900,New York University,12,new-york-university,0.000966417
+1,Men,nonresident,Non-resident Alien,2012,2012,193900,New York University,1090,new-york-university,0.087782878
+1,Men,white,White,2012,2012,193900,New York University,2277,new-york-university,0.183377627
+2,Women,asian,Asian,2012,2012,193900,New York University,1338,new-york-university,0.107755496
+2,Women,black,Black or African American,2012,2012,193900,New York University,455,new-york-university,0.036643312
+2,Women,hawaiian,Native Hawaiian or Other Pacific Islanders,2012,2012,193900,New York University,4,new-york-university,0.000322139
+2,Women,hispanic,Hispanic or Latino,2012,2012,193900,New York University,617,new-york-university,0.049689941
+2,Women,multiracial,Two or More Races,2012,2012,193900,New York University,77,new-york-university,0.006201176
+2,Women,native,American Indian or Alaska Native,2012,2012,193900,New York University,13,new-york-university,0.001046952
+2,Women,nonresident,Non-resident Alien,2012,2012,193900,New York University,1268,new-york-university,0.102118064
+2,Women,white,White,2012,2012,193900,New York University,3833,new-york-university,0.3086897

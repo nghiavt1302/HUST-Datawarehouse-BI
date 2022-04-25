@@ -1,0 +1,129 @@
+ID Enrollment Status,Enrollment Status,ID Year,Year,Enrollment,University,ID University,Slug University,share
+1,Full time,2019,2019,5208993,Doctoral Universities,DOC,doctoral-universities,0.776222698
+2,Part time,2019,2019,1501701,Doctoral Universities,DOC,doctoral-universities,0.223777302
+1,Full time,2019,2019,3000045,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.831840433
+2,Part time,2019,2019,606470,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.168159567
+1,Full time,2019,2019,10154,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.785730867
+1,Full time,2019,2019,13077,Boston College,164924,boston-college,0.886756628
+1,Full time,2019,2019,45510,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.946350593
+1,Full time,2019,2019,45366,New York University,193900,new-york-university,0.857823579
+1,Full time,2019,2019,10060,University of Rochester,195030,university-of-rochester,0.822365732
+1,Full time,2019,2019,22921,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.916400128
+2,Part time,2019,2019,2769,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.214269133
+2,Part time,2019,2019,1670,Boston College,164924,boston-college,0.113243372
+2,Part time,2019,2019,2580,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.053649407
+2,Part time,2019,2019,7519,New York University,193900,new-york-university,0.142176421
+2,Part time,2019,2019,2173,University of Rochester,195030,university-of-rochester,0.177634268
+2,Part time,2019,2019,2091,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.083599872
+1,Full time,2018,2018,5171124,Doctoral Universities,DOC,doctoral-universities,0.779205374
+2,Part time,2018,2018,1465283,Doctoral Universities,DOC,doctoral-universities,0.220794626
+1,Full time,2018,2018,2949765,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.836378087
+2,Part time,2018,2018,577067,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.163621913
+1,Full time,2018,2018,10509,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.831013759
+1,Full time,2018,2018,13165,Boston College,164924,boston-college,0.894361413
+1,Full time,2018,2018,44340,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.949139481
+1,Full time,2018,2018,43140,New York University,193900,new-york-university,0.832063572
+1,Full time,2018,2018,9937,University of Rochester,195030,university-of-rochester,0.840907168
+1,Full time,2018,2018,22509,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.913551686
+2,Part time,2018,2018,2137,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.168986241
+2,Part time,2018,2018,1555,Boston College,164924,boston-college,0.105638587
+2,Part time,2018,2018,2376,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.050860519
+2,Part time,2018,2018,8707,New York University,193900,new-york-university,0.167936428
+2,Part time,2018,2018,1880,University of Rochester,195030,university-of-rochester,0.159092832
+2,Part time,2018,2018,2130,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.086448314
+1,Full time,2017,2017,5139378,Doctoral Universities,DOC,doctoral-universities,0.779601281
+2,Part time,2017,2017,1452938,Doctoral Universities,DOC,doctoral-universities,0.220398719
+1,Full time,2017,2017,2906997,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.835847636
+2,Part time,2017,2017,570906,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.164152364
+1,Full time,2017,2017,10486,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.846737726
+1,Full time,2017,2017,13209,Boston College,164924,boston-college,0.902994258
+1,Full time,2017,2017,43517,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.94598061
+1,Full time,2017,2017,42324,New York University,193900,new-york-university,0.827885687
+1,Full time,2017,2017,9766,University of Rochester,195030,university-of-rochester,0.838427198
+1,Full time,2017,2017,22167,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.909975369
+2,Part time,2017,2017,1898,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.153262274
+2,Part time,2017,2017,1419,Boston College,164924,boston-college,0.097005742
+2,Part time,2017,2017,2485,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.05401939
+2,Part time,2017,2017,8799,New York University,193900,new-york-university,0.172114313
+2,Part time,2017,2017,1882,University of Rochester,195030,university-of-rochester,0.161572802
+2,Part time,2017,2017,2193,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.090024631
+1,Full time,2016,2016,5122545,Doctoral Universities,DOC,doctoral-universities,0.780356397
+2,Part time,2016,2016,1441821,Doctoral Universities,DOC,doctoral-universities,0.219643603
+1,Full time,2016,2016,2864979,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.835299825
+2,Part time,2016,2016,564902,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.164700175
+1,Full time,2016,2016,10296,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.818376918
+1,Full time,2016,2016,13150,Boston College,164924,boston-college,0.909028066
+1,Full time,2016,2016,42361,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.947291918
+1,Full time,2016,2016,41374,New York University,193900,new-york-university,0.818476756
+1,Full time,2016,2016,9594,University of Rochester,195030,university-of-rochester,0.855919351
+1,Full time,2016,2016,21639,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.905473261
+2,Part time,2016,2016,2285,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.181623082
+2,Part time,2016,2016,1316,Boston College,164924,boston-college,0.090971934
+2,Part time,2016,2016,2357,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.052708082
+2,Part time,2016,2016,9176,New York University,193900,new-york-university,0.181523244
+2,Part time,2016,2016,1615,University of Rochester,195030,university-of-rochester,0.144080649
+2,Part time,2016,2016,2259,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.094526739
+1,Full time,2015,2015,5105931,Doctoral Universities,DOC,doctoral-universities,0.783489087
+2,Part time,2015,2015,1410983,Doctoral Universities,DOC,doctoral-universities,0.216510913
+1,Full time,2015,2015,2819994,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.837724415
+2,Part time,2015,2015,546261,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.162275585
+1,Full time,2015,2015,10250,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.820985182
+1,Full time,2015,2015,13069,Boston College,164924,boston-college,0.910477916
+1,Full time,2015,2015,41114,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.941879911
+1,Full time,2015,2015,40777,New York University,193900,new-york-university,0.815099846
+1,Full time,2015,2015,9470,University of Rochester,195030,university-of-rochester,0.852769023
+1,Full time,2015,2015,21747,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.910563999
+2,Part time,2015,2015,2235,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.179014818
+2,Part time,2015,2015,1285,Boston College,164924,boston-college,0.089522084
+2,Part time,2015,2015,2537,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.058120089
+2,Part time,2015,2015,9250,New York University,193900,new-york-university,0.184900154
+2,Part time,2015,2015,1635,University of Rochester,195030,university-of-rochester,0.147230977
+2,Part time,2015,2015,2136,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.089436001
+1,Full time,2014,2014,5047167,Doctoral Universities,DOC,doctoral-universities,0.784634757
+2,Part time,2014,2014,1385338,Doctoral Universities,DOC,doctoral-universities,0.215365243
+1,Full time,2014,2014,2785665,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.838142854
+2,Part time,2014,2014,537951,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.161857146
+1,Full time,2014,2014,10292,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.816630961
+1,Full time,2014,2014,13024,Boston College,164924,boston-college,0.909687784
+1,Full time,2014,2014,41101,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.942143266
+1,Full time,2014,2014,39898,New York University,193900,new-york-university,0.809717092
+1,Full time,2014,2014,9436,University of Rochester,195030,university-of-rochester,0.853164557
+1,Full time,2014,2014,21640,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.91184898
+2,Part time,2014,2014,2311,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.183369039
+2,Part time,2014,2014,1293,Boston College,164924,boston-college,0.090312216
+2,Part time,2014,2014,2524,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.057856734
+2,Part time,2014,2014,9376,New York University,193900,new-york-university,0.190282908
+2,Part time,2014,2014,1624,University of Rochester,195030,university-of-rochester,0.146835443
+2,Part time,2014,2014,2092,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.08815102
+1,Full time,2013,2013,4787984,Doctoral Universities,DOC,doctoral-universities,0.778473731
+2,Part time,2013,2013,1362492,Doctoral Universities,DOC,doctoral-universities,0.221526269
+1,Full time,2013,2013,2739577,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.838752747
+2,Part time,2013,2013,526674,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.161247253
+1,Full time,2013,2013,10572,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.81712784
+1,Full time,2013,2013,12916,Boston College,164924,boston-college,0.902648683
+1,Full time,2013,2013,41152,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.941477923
+1,Full time,2013,2013,35096,New York University,193900,new-york-university,0.786923474
+1,Full time,2013,2013,9284,University of Rochester,195030,university-of-rochester,0.84246824
+1,Full time,2013,2013,21086,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.898653256
+2,Part time,2013,2013,2366,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.18287216
+2,Part time,2013,2013,1393,Boston College,164924,boston-college,0.097351317
+2,Part time,2013,2013,2558,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.058522077
+2,Part time,2013,2013,9503,New York University,193900,new-york-university,0.213076526
+2,Part time,2013,2013,1736,University of Rochester,195030,university-of-rochester,0.15753176
+2,Part time,2013,2013,2378,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.101346744
+1,Full time,2012,2012,4737820,Doctoral Universities,DOC,doctoral-universities,0.775465424
+2,Part time,2012,2012,1371827,Doctoral Universities,DOC,doctoral-universities,0.224534576
+1,Full time,2012,2012,2719293,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.834990596
+2,Part time,2012,2012,537382,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.165009404
+1,Full time,2012,2012,10373,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.800509338
+1,Full time,2012,2012,13115,Boston College,164924,boston-college,0.897980144
+1,Full time,2012,2012,40966,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.943351909
+1,Full time,2012,2012,34964,New York University,193900,new-york-university,0.785425465
+1,Full time,2012,2012,8784,University of Rochester,195030,university-of-rochester,0.835775452
+1,Full time,2012,2012,20984,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.877734555
+2,Part time,2012,2012,2585,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.199490662
+2,Part time,2012,2012,1490,Boston College,164924,boston-college,0.102019856
+2,Part time,2012,2012,2460,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.056648091
+2,Part time,2012,2012,9552,New York University,193900,new-york-university,0.214574535
+2,Part time,2012,2012,1726,University of Rochester,195030,university-of-rochester,0.164224548
+2,Part time,2012,2012,2923,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.122265445

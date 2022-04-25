@@ -1,0 +1,25 @@
+ID Year,Year,SAT Critical Reading 25th Percentile,SAT Critical Reading 75th Percentile,SAT Math 25th Percentile,SAT Math 75th Percentile,University,ID University,Slug University,id,type,value,title
+2019,2019,660,740,690,790,New York University,193900,new-york-university,2019_New York University_25_Reading,Critical Reading,660,25th Percentile
+2019,2019,660,740,690,790,New York University,193900,new-york-university,2019_New York University_75_Reading,Critical Reading,740,75th Percentile
+2019,2019,660,740,690,790,New York University,193900,new-york-university,2019_New York University_25_Math,Math,690,25th Percentile
+2019,2019,660,740,690,790,New York University,193900,new-york-university,2019_New York University_75_Math,Math,790,75th Percentile
+2018,2018,650,720,660,790,New York University,193900,new-york-university,2018_New York University_25_Reading,Critical Reading,650,25th Percentile
+2018,2018,650,720,660,790,New York University,193900,new-york-university,2018_New York University_75_Reading,Critical Reading,720,75th Percentile
+2018,2018,650,720,660,790,New York University,193900,new-york-university,2018_New York University_25_Math,Math,660,25th Percentile
+2018,2018,650,720,660,790,New York University,193900,new-york-university,2018_New York University_75_Math,Math,790,75th Percentile
+2017,2017,650,730,640,760,New York University,193900,new-york-university,2017_New York University_25_Reading,Critical Reading,650,25th Percentile
+2017,2017,650,730,640,760,New York University,193900,new-york-university,2017_New York University_75_Reading,Critical Reading,730,75th Percentile
+2017,2017,650,730,640,760,New York University,193900,new-york-university,2017_New York University_25_Math,Math,640,25th Percentile
+2017,2017,650,730,640,760,New York University,193900,new-york-university,2017_New York University_75_Math,Math,760,75th Percentile
+2016,2016,620,720,630,760,New York University,193900,new-york-university,2016_New York University_25_Reading,Critical Reading,620,25th Percentile
+2016,2016,620,720,630,760,New York University,193900,new-york-university,2016_New York University_75_Reading,Critical Reading,720,75th Percentile
+2016,2016,620,720,630,760,New York University,193900,new-york-university,2016_New York University_25_Math,Math,630,25th Percentile
+2016,2016,620,720,630,760,New York University,193900,new-york-university,2016_New York University_75_Math,Math,760,75th Percentile
+2015,2015,620,720,630,750,New York University,193900,new-york-university,2015_New York University_25_Reading,Critical Reading,620,25th Percentile
+2015,2015,620,720,630,750,New York University,193900,new-york-university,2015_New York University_75_Reading,Critical Reading,720,75th Percentile
+2015,2015,620,720,630,750,New York University,193900,new-york-university,2015_New York University_25_Math,Math,630,25th Percentile
+2015,2015,620,720,630,750,New York University,193900,new-york-university,2015_New York University_75_Math,Math,750,75th Percentile
+2014,2014,610,710,630,740,New York University,193900,new-york-university,2014_New York University_25_Reading,Critical Reading,610,25th Percentile
+2014,2014,610,710,630,740,New York University,193900,new-york-university,2014_New York University_75_Reading,Critical Reading,710,75th Percentile
+2014,2014,610,710,630,740,New York University,193900,new-york-university,2014_New York University_25_Math,Math,630,25th Percentile
+2014,2014,610,710,630,740,New York University,193900,new-york-university,2014_New York University_75_Math,Math,740,75th Percentile

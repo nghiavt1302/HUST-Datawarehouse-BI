@@ -1,0 +1,130 @@
+ID Year,Year,ID Industry Group,Industry Group,ID Workforce Status,Workforce Status,Total Population,Average Wage,Average Wage Appx MOE,Total Population MOE Appx,Record Count,CIP2,ID CIP2
+2019,2019,5415,Computer Systems Design,TRUE,TRUE,6491,113717.8647,36553.35844,1977.977162,68,Cultural & Gender Studies,5
+2019,2019,6111,Elementary & secondary schools,TRUE,TRUE,19841,57461.78051,6299.904728,3458.025073,207,Cultural & Gender Studies,5
+2019,2019,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,19997,70474.6563,13219.8141,3471.591044,217,Cultural & Gender Studies,5
+2019,2019,622M,"General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",TRUE,TRUE,5274,95199.21483,37936.64747,1782.942235,58,Cultural & Gender Studies,5
+2019,2019,722Z,Restaurants & Food Services,TRUE,TRUE,3938,25194.0127,8195.599969,1540.660607,37,Cultural & Gender Studies,5
+2019,2019,5415,Computer Systems Design,TRUE,TRUE,16108,109808.1247,16352.5843,3115.821095,162,Language & Linguistics,16
+2019,2019,6111,Elementary & secondary schools,TRUE,TRUE,85446,56679.52302,2892.668832,7174.609992,968,Language & Linguistics,16
+2019,2019,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,62426,61377.44397,4598.864329,6132.931967,659,Language & Linguistics,16
+2019,2019,622M,"General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",TRUE,TRUE,19022,95710.48034,17571.82458,3385.91164,211,Language & Linguistics,16
+2019,2019,722Z,Restaurants & Food Services,TRUE,TRUE,12896,32331.41858,5288.372508,2787.942502,110,Language & Linguistics,16
+2019,2019,5415,Computer Systems Design,TRUE,TRUE,2359,128935.4409,30225.76658,1192.436751,21,Legal,22
+2019,2019,6111,Elementary & secondary schools,TRUE,TRUE,4088,47833.13381,11606.14132,1569.727805,43,Legal,22
+2019,2019,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,2654,57774.43255,24182.74741,1264.798726,26,Legal,22
+2019,2019,622M,"General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",TRUE,TRUE,2741,61953.36264,15612.40474,1285.361695,22,Legal,22
+2019,2019,722Z,Restaurants & Food Services,TRUE,TRUE,1748,38730.22025,10377.95112,1026.462224,15,Legal,22
+2019,2019,5415,Computer Systems Design,TRUE,TRUE,64530,132214.1735,9215.827518,6235.384125,686,Math & Statistics,27
+2019,2019,6111,Elementary & secondary schools,TRUE,TRUE,95503,61918.32725,3410.059871,7584.841923,1064,Math & Statistics,27
+2019,2019,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,87995,75425.69088,6320.120901,7280.777799,965,Math & Statistics,27
+2019,2019,622M,"General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",TRUE,TRUE,16724,116002.7288,20187.6143,3174.833108,172,Math & Statistics,27
+2019,2019,722Z,Restaurants & Food Services,TRUE,TRUE,9812,35576.11965,11058.24178,2431.865124,87,Math & Statistics,27
+2019,2019,5415,Computer Systems Design,TRUE,TRUE,61818,96091.80451,7423.102844,6103.005182,633,Visual & Performing Arts,50
+2019,2019,6111,Elementary & secondary schools,TRUE,TRUE,206746,50587.2496,1851.949814,11155.70983,2186,Visual & Performing Arts,50
+2019,2019,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,159035,54996.07486,2566.360202,9785.733337,1705,Visual & Performing Arts,50
+2019,2019,622M,"General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",TRUE,TRUE,46982,73013.17447,6975.432712,5320.754923,483,Visual & Performing Arts,50
+2019,2019,722Z,Restaurants & Food Services,TRUE,TRUE,89288,32496.85567,2679.093814,7334.043392,789,Visual & Performing Arts,50
+2018,2018,5415,Computer Systems Design,TRUE,TRUE,4169,119941.2794,34964.68239,1585.202144,41,Cultural & Gender Studies,5
+2018,2018,6111,Elementary & secondary schools,TRUE,TRUE,19159,56601.31917,5207.59479,3398.07804,212,Cultural & Gender Studies,5
+2018,2018,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,19373,63174.17669,9184.969817,3417.000625,195,Cultural & Gender Studies,5
+2018,2018,622M,"General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",TRUE,TRUE,6504,88663.04505,25976.20966,1979.956178,70,Cultural & Gender Studies,5
+2018,2018,722Z,Restaurants & Food Services,TRUE,TRUE,4008,31402.9481,9019.635872,1554.292651,38,Cultural & Gender Studies,5
+2018,2018,5415,Computer Systems Design,TRUE,TRUE,11379,118231.3666,23610.63334,2618.847923,129,Language & Linguistics,16
+2018,2018,6111,Elementary & secondary schools,TRUE,TRUE,86879,53312.09234,2665.79112,7234.457066,939,Language & Linguistics,16
+2018,2018,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,57370,62080.81642,4973.140717,5879.411291,582,Language & Linguistics,16
+2018,2018,622M,"General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",TRUE,TRUE,20845,90210.87738,15050.70265,3544.422057,223,Language & Linguistics,16
+2018,2018,722Z,Restaurants & Food Services,TRUE,TRUE,13118,42414.34365,16763.91032,2811.832965,121,Language & Linguistics,16
+2018,2018,5415,Computer Systems Design,TRUE,TRUE,2084,77135.37764,16527.84312,1120.780559,14,Legal,22
+2018,2018,6111,Elementary & secondary schools,TRUE,TRUE,4616,45471.11287,9510.616818,1668.01885,46,Legal,22
+2018,2018,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,4466,55952.73959,10778.54824,1640.694157,42,Legal,22
+2018,2018,622M,"General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",TRUE,TRUE,2794,71994.61203,22660.24214,1297.728676,26,Legal,22
+2018,2018,722Z,Restaurants & Food Services,TRUE,TRUE,2193,71067.39307,64098.50271,1149.716831,18,Legal,22
+2018,2018,5415,Computer Systems Design,TRUE,TRUE,58184,128312.4446,9620.892749,5920.958562,607,Math & Statistics,27
+2018,2018,6111,Elementary & secondary schools,TRUE,TRUE,98150,59520.23993,2373.327319,7689.131856,1079,Math & Statistics,27
+2018,2018,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,90427,72002.19903,5854.069303,7380.61314,933,Math & Statistics,27
+2018,2018,622M,"General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",TRUE,TRUE,21616,115918.8819,21574.38971,3609.366861,199,Math & Statistics,27
+2018,2018,722Z,Restaurants & Food Services,TRUE,TRUE,10050,35851.83045,9975.347079,2461.178951,97,Math & Statistics,27
+2018,2018,5415,Computer Systems Design,TRUE,TRUE,64140,90920.2299,7176.454085,6216.501718,594,Visual & Performing Arts,50
+2018,2018,6111,Elementary & secondary schools,TRUE,TRUE,198654,49671.83365,1717.635901,10935.40052,2140,Visual & Performing Arts,50
+2018,2018,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,153249,53243.19679,2705.060534,9606.183683,1605,Visual & Performing Arts,50
+2018,2018,622M,"General medical and surgical hospitals, and specialty (except psychiatric and substance abuse) hospitals",TRUE,TRUE,55774,78790.46077,8361.475386,5797.084519,554,Visual & Performing Arts,50
+2018,2018,722Z,Restaurants & Food Services,TRUE,TRUE,87778,31165.05468,2108.189914,7271.768945,756,Visual & Performing Arts,50
+2017,2017,5415,Computer Systems Design,TRUE,TRUE,3365,112905.5492,45252.85116,1424.171683,39,Cultural & Gender Studies,5
+2017,2017,6111,Elementary & secondary schools,TRUE,TRUE,20545,56437.99241,5202.943576,3518.824668,224,Cultural & Gender Studies,5
+2017,2017,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,16572,61809.50193,10063.26091,3160.369475,177,Cultural & Gender Studies,5
+2017,2017,722Z,Restaurants & Food Services,TRUE,TRUE,3128,37176.90537,19269.42587,1373.104317,33,Cultural & Gender Studies,5
+2017,2017,5415,Computer Systems Design,TRUE,TRUE,14029,107602.1937,16455.72532,2907.81982,132,Language & Linguistics,16
+2017,2017,6111,Elementary & secondary schools,TRUE,TRUE,82970,52863.33476,2864.909751,7069.900507,911,Language & Linguistics,16
+2017,2017,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,61693,60546.64387,5216.454441,6096.800647,666,Language & Linguistics,16
+2017,2017,722Z,Restaurants & Food Services,TRUE,TRUE,12012,30712.06344,11886.73523,2690.696798,96,Language & Linguistics,16
+2017,2017,5415,Computer Systems Design,TRUE,TRUE,2171,188166.8577,86679.83334,1143.935345,23,Legal,22
+2017,2017,6111,Elementary & secondary schools,TRUE,TRUE,4854,51849.22785,13754.81096,1710.478064,56,Legal,22
+2017,2017,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,1644,45766.69951,26444.76226,995.4587045,21,Legal,22
+2017,2017,722Z,Restaurants & Food Services,TRUE,TRUE,1731,44140.76545,19199.62981,1021.45855,14,Legal,22
+2017,2017,5415,Computer Systems Design,TRUE,TRUE,58536,125770.7901,8226.379265,5938.820701,628,Math & Statistics,27
+2017,2017,6111,Elementary & secondary schools,TRUE,TRUE,104689,57553.75613,2488.767488,7940.929405,1130,Math & Statistics,27
+2017,2017,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,84965,71400.49101,6111.95889,7154.34458,897,Math & Statistics,27
+2017,2017,722Z,Restaurants & Food Services,TRUE,TRUE,8986,44916.72079,17638.56977,2327.2592,84,Math & Statistics,27
+2017,2017,5415,Computer Systems Design,TRUE,TRUE,56855,88389.53262,6714.126465,5852.959199,572,Visual & Performing Arts,50
+2017,2017,6111,Elementary & secondary schools,TRUE,TRUE,188569,47703.44083,1843.162386,10654.48668,2005,Visual & Performing Arts,50
+2017,2017,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,146725,51054.93157,2680.100075,9399.635705,1571,Visual & Performing Arts,50
+2017,2017,722Z,Restaurants & Food Services,TRUE,TRUE,84005,29338.60875,2274.652339,7113.835245,736,Visual & Performing Arts,50
+2016,2016,5415,Computer Systems Design,TRUE,TRUE,3743,88343.63853,23592.29414,1502.031643,36,Cultural & Gender Studies,5
+2016,2016,6111,Elementary & secondary schools,TRUE,TRUE,20572,53927.17956,6856.011537,3521.131865,213,Cultural & Gender Studies,5
+2016,2016,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,16751,54227.07516,7913.26659,3177.386957,177,Cultural & Gender Studies,5
+2016,2016,722Z,Restaurants & Food Services,TRUE,TRUE,4351,31322.48701,9348.758638,1619.432318,44,Cultural & Gender Studies,5
+2016,2016,5415,Computer Systems Design,TRUE,TRUE,11302,101451.8096,23395.3598,2609.970085,123,Language & Linguistics,16
+2016,2016,6111,Elementary & secondary schools,TRUE,TRUE,79282,52816.58813,3346.664238,6911.043321,904,Language & Linguistics,16
+2016,2016,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,48968,54978.11085,5423.355577,5431.975402,558,Language & Linguistics,16
+2016,2016,722Z,Restaurants & Food Services,TRUE,TRUE,11894,30180.69758,5198.502125,2677.447483,100,Language & Linguistics,16
+2016,2016,5415,Computer Systems Design,TRUE,TRUE,759,192048.3979,163748.5353,676.3858491,8,Legal,22
+2016,2016,6111,Elementary & secondary schools,TRUE,TRUE,5714,39890.20546,7433.513324,1855.822101,50,Legal,22
+2016,2016,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,2026,45549.19497,20825.42504,1105.074235,19,Legal,22
+2016,2016,722Z,Restaurants & Food Services,TRUE,TRUE,1033,24491.31365,5582.428436,789.0842528,10,Legal,22
+2016,2016,5415,Computer Systems Design,TRUE,TRUE,59131,115088.446,8381.428639,5968.89637,598,Math & Statistics,27
+2016,2016,6111,Elementary & secondary schools,TRUE,TRUE,93384,55261.95638,2701.496058,7500.176414,1029,Math & Statistics,27
+2016,2016,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,84080,65769.01339,5342.462801,7116.975949,891,Math & Statistics,27
+2016,2016,722Z,Restaurants & Food Services,TRUE,TRUE,7927,33259.3531,11773.3888,2185.834862,76,Math & Statistics,27
+2016,2016,5415,Computer Systems Design,TRUE,TRUE,48552,81497.4253,7198.078869,5408.86068,492,Visual & Performing Arts,50
+2016,2016,6111,Elementary & secondary schools,TRUE,TRUE,180595,47790.33369,1680.485228,10426.96051,1925,Visual & Performing Arts,50
+2016,2016,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,143221,55022.88884,3159.755096,9286.757386,1575,Visual & Performing Arts,50
+2016,2016,722Z,Restaurants & Food Services,TRUE,TRUE,76012,28252.86936,2497.53178,6767.095149,654,Visual & Performing Arts,50
+2015,2015,5415,Computer Systems Design,TRUE,TRUE,3064,115266.5313,43965.33607,1358.984488,33,Cultural & Gender Studies,5
+2015,2015,6111,Elementary & secondary schools,TRUE,TRUE,18154,46988.42867,4987.368937,3307.755753,187,Cultural & Gender Studies,5
+2015,2015,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,20967,54593.08819,9000.156856,3554.767128,215,Cultural & Gender Studies,5
+2015,2015,722Z,Restaurants & Food Services,TRUE,TRUE,2678,32526.05004,16126.74756,1270.503863,30,Cultural & Gender Studies,5
+2015,2015,5415,Computer Systems Design,TRUE,TRUE,11999,82619.52604,12652.72223,2689.237233,120,Language & Linguistics,16
+2015,2015,6111,Elementary & secondary schools,TRUE,TRUE,80841,50379.61746,2639.993483,6978.597528,836,Language & Linguistics,16
+2015,2015,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,53656,55439.31941,5122.462875,5685.944858,562,Language & Linguistics,16
+2015,2015,722Z,Restaurants & Food Services,TRUE,TRUE,12057,34163.14995,7937.639319,2695.728384,91,Language & Linguistics,16
+2015,2015,5415,Computer Systems Design,TRUE,TRUE,1989,109004.8763,22548.8488,1094.937017,14,Legal,22
+2015,2015,6111,Elementary & secondary schools,TRUE,TRUE,3525,33486.13163,12164.57853,1457.635651,37,Legal,22
+2015,2015,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,2926,52080.34074,9684.712683,1328.028786,30,Legal,22
+2015,2015,722Z,Restaurants & Food Services,TRUE,TRUE,1475,33971.90237,20120.44148,942.9062953,13,Legal,22
+2015,2015,5415,Computer Systems Design,TRUE,TRUE,52393,116227.8773,9115.080439,5618.650825,527,Math & Statistics,27
+2015,2015,6111,Elementary & secondary schools,TRUE,TRUE,95203,52716.98955,2578.588865,7572.789244,1004,Math & Statistics,27
+2015,2015,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,78494,70881.65262,6025.852417,6876.605339,847,Math & Statistics,27
+2015,2015,722Z,Restaurants & Food Services,TRUE,TRUE,6783,32550.73507,9381.618283,2021.973205,62,Math & Statistics,27
+2015,2015,5415,Computer Systems Design,TRUE,TRUE,41236,77835.97522,6990.093314,4984.832561,408,Visual & Performing Arts,50
+2015,2015,6111,Elementary & secondary schools,TRUE,TRUE,181391,46758.24753,2076.993572,10449.79542,1888,Visual & Performing Arts,50
+2015,2015,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,143654,52357.96451,2743.061767,9300.707551,1490,Visual & Performing Arts,50
+2015,2015,722Z,Restaurants & Food Services,TRUE,TRUE,71267,30715.28702,3226.43889,6552.560768,625,Visual & Performing Arts,50
+2014,2014,5415,Computer Systems Design,TRUE,TRUE,1706,94502.90152,27021.03718,1014.055305,19,Cultural & Gender Studies,5
+2014,2014,6111,Elementary & secondary schools,TRUE,TRUE,16213,51070.84765,6137.547183,3125.945841,187,Cultural & Gender Studies,5
+2014,2014,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,15327,57699.55836,10203.97148,3039.34292,169,Cultural & Gender Studies,5
+2014,2014,722Z,Restaurants & Food Services,TRUE,TRUE,2883,27027.47,6998.480765,1318.234381,29,Cultural & Gender Studies,5
+2014,2014,5415,Computer Systems Design,TRUE,TRUE,11456,88945.86531,15186.98627,2627.68678,110,Language & Linguistics,16
+2014,2014,6111,Elementary & secondary schools,TRUE,TRUE,84177,48178.78047,2513.497699,7121.010849,912,Language & Linguistics,16
+2014,2014,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,57784,53115.30117,4498.069396,5900.508535,630,Language & Linguistics,16
+2014,2014,722Z,Restaurants & Food Services,TRUE,TRUE,8873,27372.66494,7338.877373,2312.577615,86,Language & Linguistics,16
+2014,2014,6111,Elementary & secondary schools,TRUE,TRUE,3814,37887.32669,10447.16589,1516.20953,39,Legal,22
+2014,2014,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,2809,41945.05945,13223.06482,1301.206718,25,Legal,22
+2014,2014,722Z,Restaurants & Food Services,TRUE,TRUE,1002,35300.51397,22926.30313,777.1539781,10,Legal,22
+2014,2014,5415,Computer Systems Design,TRUE,TRUE,50603,109602.7186,8301.155127,5521.853131,530,Math & Statistics,27
+2014,2014,6111,Elementary & secondary schools,TRUE,TRUE,84446,54023.49244,2329.161526,7132.373077,964,Math & Statistics,27
+2014,2014,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,81079,65966.72496,5360.278393,6988.820673,859,Math & Statistics,27
+2014,2014,722Z,Restaurants & Food Services,TRUE,TRUE,5278,37102.08318,11584.47294,1783.61581,51,Math & Statistics,27
+2014,2014,5415,Computer Systems Design,TRUE,TRUE,41470,75656.25631,7572.48774,4998.938841,398,Visual & Performing Arts,50
+2014,2014,6111,Elementary & secondary schools,TRUE,TRUE,173712,45758.33543,1793.361547,10226.37357,1842,Visual & Performing Arts,50
+2014,2014,611M1,"Colleges, universities & professional schools, including junior colleges",TRUE,TRUE,133261,47899.26567,2428.028183,8958.199239,1412,Visual & Performing Arts,50
+2014,2014,722Z,Restaurants & Food Services,TRUE,TRUE,79037,26912.26855,2293.78934,6900.301694,657,Visual & Performing Arts,50

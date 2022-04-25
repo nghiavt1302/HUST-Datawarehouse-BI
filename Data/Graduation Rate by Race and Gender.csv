@@ -1,0 +1,90 @@
+ID Gender,Gender,ID IPEDS Race,IPEDS Race,ID Year,Year,ID University,University,Graduation Rate,Number Of Finishers,Slug University
+1,Men,asian,Asian,2018,2018,193900,New York University,0.836978131,421,new-york-university
+1,Men,black,Black or African American,2018,2018,193900,New York University,0.79787234,75,new-york-university
+1,Men,hispanic,Hispanic or Latino,2018,2018,193900,New York University,0.810810811,180,new-york-university
+1,Men,multiracial,Two or More Races,2018,2018,193900,New York University,0.819672131,50,new-york-university
+1,Men,nonresident,Non-resident Alien,2018,2018,193900,New York University,0.817010309,317,new-york-university
+1,Men,white,White,2018,2018,193900,New York University,0.827468785,729,new-york-university
+2,Women,asian,Asian,2018,2018,193900,New York University,0.906086957,521,new-york-university
+2,Women,black,Black or African American,2018,2018,193900,New York University,0.812865497,139,new-york-university
+2,Women,hispanic,Hispanic or Latino,2018,2018,193900,New York University,0.839050132,318,new-york-university
+2,Women,multiracial,Two or More Races,2018,2018,193900,New York University,0.798449612,103,new-york-university
+2,Women,native,American Indian or Alaska Native,2018,2018,193900,New York University,0.875,7,new-york-university
+2,Women,nonresident,Non-resident Alien,2018,2018,193900,New York University,0.883449883,379,new-york-university
+2,Women,white,White,2018,2018,193900,New York University,0.872082973,1009,new-york-university
+1,Men,asian,Asian,2017,2017,193900,New York University,0.847191011,377,new-york-university
+1,Men,black,Black or African American,2017,2017,193900,New York University,0.68852459,42,new-york-university
+1,Men,hispanic,Hispanic or Latino,2017,2017,193900,New York University,0.771573604,152,new-york-university
+1,Men,multiracial,Two or More Races,2017,2017,193900,New York University,0.826923077,43,new-york-university
+1,Men,native,American Indian or Alaska Native,2017,2017,193900,New York University,0.818181818,9,new-york-university
+1,Men,nonresident,Non-resident Alien,2017,2017,193900,New York University,0.827433628,187,new-york-university
+1,Men,white,White,2017,2017,193900,New York University,0.841292135,599,new-york-university
+2,Women,asian,Asian,2017,2017,193900,New York University,0.887063655,432,new-york-university
+2,Women,black,Black or African American,2017,2017,193900,New York University,0.789915966,94,new-york-university
+2,Women,hispanic,Hispanic or Latino,2017,2017,193900,New York University,0.851301115,229,new-york-university
+2,Women,multiracial,Two or More Races,2017,2017,193900,New York University,0.805555556,58,new-york-university
+2,Women,native,American Indian or Alaska Native,2017,2017,193900,New York University,0.75,12,new-york-university
+2,Women,nonresident,Non-resident Alien,2017,2017,193900,New York University,0.877828054,194,new-york-university
+2,Women,white,White,2017,2017,193900,New York University,0.849142857,743,new-york-university
+1,Men,asian,Asian,2016,2016,193900,New York University,0.851694915,402,new-york-university
+1,Men,black,Black or African American,2016,2016,193900,New York University,0.777777778,35,new-york-university
+1,Men,hispanic,Hispanic or Latino,2016,2016,193900,New York University,0.807228916,134,new-york-university
+1,Men,multiracial,Two or More Races,2016,2016,193900,New York University,0.814814815,44,new-york-university
+1,Men,nonresident,Non-resident Alien,2016,2016,193900,New York University,0.842592593,182,new-york-university
+1,Men,white,White,2016,2016,193900,New York University,0.813048934,648,new-york-university
+2,Women,asian,Asian,2016,2016,193900,New York University,0.907258065,450,new-york-university
+2,Women,black,Black or African American,2016,2016,193900,New York University,0.898876404,80,new-york-university
+2,Women,hispanic,Hispanic or Latino,2016,2016,193900,New York University,0.867647059,177,new-york-university
+2,Women,multiracial,Two or More Races,2016,2016,193900,New York University,0.827586207,96,new-york-university
+2,Women,native,American Indian or Alaska Native,2016,2016,193900,New York University,0.714285714,5,new-york-university
+2,Women,nonresident,Non-resident Alien,2016,2016,193900,New York University,0.910638298,214,new-york-university
+2,Women,white,White,2016,2016,193900,New York University,0.836345382,833,new-york-university
+1,Men,asian,Asian,2015,2015,193900,New York University,0.842553191,396,new-york-university
+1,Men,black,Black or African American,2015,2015,193900,New York University,0.716049383,58,new-york-university
+1,Men,hispanic,Hispanic or Latino,2015,2015,193900,New York University,0.744966443,111,new-york-university
+1,Men,native,American Indian or Alaska Native,2015,2015,193900,New York University,0.7,7,new-york-university
+1,Men,nonresident,Non-resident Alien,2015,2015,193900,New York University,0.833333333,175,new-york-university
+1,Men,white,White,2015,2015,193900,New York University,0.805412371,625,new-york-university
+2,Women,asian,Asian,2015,2015,193900,New York University,0.918454936,428,new-york-university
+2,Women,black,Black or African American,2015,2015,193900,New York University,0.798319328,95,new-york-university
+2,Women,hispanic,Hispanic or Latino,2015,2015,193900,New York University,0.851648352,155,new-york-university
+2,Women,native,American Indian or Alaska Native,2015,2015,193900,New York University,0.866666667,13,new-york-university
+2,Women,nonresident,Non-resident Alien,2015,2015,193900,New York University,0.867298578,183,new-york-university
+2,Women,white,White,2015,2015,193900,New York University,0.848739496,808,new-york-university
+1,Men,asian,Asian,2014,2014,193900,New York University,0.827338129,345,new-york-university
+1,Men,black,Black or African American,2014,2014,193900,New York University,0.62195122,51,new-york-university
+1,Men,hispanic,Hispanic or Latino,2014,2014,193900,New York University,0.756410256,118,new-york-university
+1,Men,nonresident,Non-resident Alien,2014,2014,193900,New York University,0.731428571,128,new-york-university
+1,Men,white,White,2014,2014,193900,New York University,0.819807428,596,new-york-university
+2,Women,asian,Asian,2014,2014,193900,New York University,0.894623656,416,new-york-university
+2,Women,black,Black or African American,2014,2014,193900,New York University,0.826446281,100,new-york-university
+2,Women,hispanic,Hispanic or Latino,2014,2014,193900,New York University,0.811764706,138,new-york-university
+2,Women,native,American Indian or Alaska Native,2014,2014,193900,New York University,0.857142857,6,new-york-university
+2,Women,nonresident,Non-resident Alien,2014,2014,193900,New York University,0.808219178,118,new-york-university
+2,Women,white,White,2014,2014,193900,New York University,0.845595855,816,new-york-university
+1,Men,asian,Asian,2013,2013,193900,New York University,0.852941176,261,new-york-university
+1,Men,black,Black or African American,2013,2013,193900,New York University,0.684210526,26,new-york-university
+1,Men,hispanic,Hispanic or Latino,2013,2013,193900,New York University,0.8,100,new-york-university
+1,Men,multiracial,Two or More Races,2013,2013,193900,New York University,1,5,new-york-university
+1,Men,nonresident,Non-resident Alien,2013,2013,193900,New York University,0.704918033,86,new-york-university
+1,Men,white,White,2013,2013,193900,New York University,0.843373494,630,new-york-university
+2,Women,asian,Asian,2013,2013,193900,New York University,0.913761468,498,new-york-university
+2,Women,black,Black or African American,2013,2013,193900,New York University,0.831683168,84,new-york-university
+2,Women,hispanic,Hispanic or Latino,2013,2013,193900,New York University,0.794871795,155,new-york-university
+2,Women,multiracial,Two or More Races,2013,2013,193900,New York University,0.833333333,5,new-york-university
+2,Women,native,American Indian or Alaska Native,2013,2013,193900,New York University,1,5,new-york-university
+2,Women,nonresident,Non-resident Alien,2013,2013,193900,New York University,0.875816993,134,new-york-university
+2,Women,white,White,2013,2013,193900,New York University,0.814782609,937,new-york-university
+1,Men,asian,Asian,2012,2012,193900,New York University,0.908496732,278,new-york-university
+1,Men,black,Black or African American,2012,2012,193900,New York University,0.583333333,21,new-york-university
+1,Men,hispanic,Hispanic or Latino,2012,2012,193900,New York University,0.784313725,80,new-york-university
+1,Men,native,American Indian or Alaska Native,2012,2012,193900,New York University,0.833333333,5,new-york-university
+1,Men,nonresident,Non-resident Alien,2012,2012,193900,New York University,0.862385321,94,new-york-university
+1,Men,white,White,2012,2012,193900,New York University,0.86037234,647,new-york-university
+2,Women,asian,Asian,2012,2012,193900,New York University,0.91943128,388,new-york-university
+2,Women,black,Black or African American,2012,2012,193900,New York University,0.829545455,73,new-york-university
+2,Women,hispanic,Hispanic or Latino,2012,2012,193900,New York University,0.837209302,144,new-york-university
+2,Women,multiracial,Two or More Races,2012,2012,193900,New York University,1,5,new-york-university
+2,Women,native,American Indian or Alaska Native,2012,2012,193900,New York University,0.857142857,6,new-york-university
+2,Women,nonresident,Non-resident Alien,2012,2012,193900,New York University,0.86407767,89,new-york-university
+2,Women,white,White,2012,2012,193900,New York University,0.841441441,934,new-york-university

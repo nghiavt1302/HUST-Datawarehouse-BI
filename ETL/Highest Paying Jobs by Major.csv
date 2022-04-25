@@ -1,0 +1,57 @@
+ID Year,Year,ID Detailed Occupation,Detailed Occupation,ID Workforce Status,Workforce Status,Total Population,Average Wage,Average Wage Appx MOE,Total Population MOE Appx,Record Count,CIP2,ID CIP2
+2019,2019,1320XX,Other financial specialists,TRUE,TRUE,464,119457.7004,181184.1989,528.8507016,6,Cultural & Gender Studies,5
+2019,2019,291210,Physicians,TRUE,TRUE,2943,203114.6595,75963.68364,1331.881779,36,Cultural & Gender Studies,5
+2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,283,386225.1837,385683.6699,413.016661,5,Cultural & Gender Studies,5
+2019,2019,1320XX,Other financial specialists,TRUE,TRUE,345,76823.72754,34363.76045,456.0199183,5,Language & Linguistics,16
+2019,2019,291020,Dentists,TRUE,TRUE,964,291390.1618,109413.1144,762.2753848,13,Language & Linguistics,16
+2019,2019,291210,Physicians,TRUE,TRUE,8112,188621.966,46998.68501,2211.195384,86,Language & Linguistics,16
+2019,2019,291240,Surgeons,TRUE,TRUE,447,256705.6465,267298.0702,519.0723321,5,Language & Linguistics,16
+2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,442,90945.04751,40973.67323,516.1610875,6,Language & Linguistics,16
+2019,2019,291210,Physicians,TRUE,TRUE,548,115551.0073,163055.2706,574.7305113,5,Legal,22
+2019,2019,1320XX,Other financial specialists,TRUE,TRUE,717,318135.1018,202793.5493,657.4054653,11,Math & Statistics,27
+2019,2019,291020,Dentists,TRUE,TRUE,1736,177132.6503,54585.06381,1022.932871,17,Math & Statistics,27
+2019,2019,291210,Physicians,TRUE,TRUE,7609,264427.9607,49141.17572,2141.547246,102,Math & Statistics,27
+2019,2019,291240,Surgeons,TRUE,TRUE,495,357566.8485,145017.0345,546.2313846,7,Math & Statistics,27
+2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3004,264806.2806,92307.83602,1345.613772,31,Math & Statistics,27
+2019,2019,1320XX,Other financial specialists,TRUE,TRUE,1915,57143.34987,21273.86766,1074.376269,14,Visual & Performing Arts,50
+2019,2019,291020,Dentists,TRUE,TRUE,1499,106869.1654,57244.5522,950.5466369,17,Visual & Performing Arts,50
+2019,2019,291210,Physicians,TRUE,TRUE,6867,225488.5039,56015.38247,2034.456712,73,Visual & Performing Arts,50
+2019,2019,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,2089,151285.7774,101241.2075,1122.124355,26,Visual & Performing Arts,50
+2018,2018,291210,Physicians,TRUE,TRUE,2067,180594.762,83440.65723,1116.19994,25,Cultural & Gender Studies,5
+2018,2018,291020,Dentists,TRUE,TRUE,1314,129660.9962,80357.32007,889.960093,13,Language & Linguistics,16
+2018,2018,291210,Physicians,TRUE,TRUE,7139,195773.1999,43443.92893,2074.354991,81,Language & Linguistics,16
+2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,598,267933.3261,280174.7317,600.3776023,9,Language & Linguistics,16
+2018,2018,1320XX,Other financial specialists,TRUE,TRUE,1279,119908.2252,57182.90452,878.027611,10,Math & Statistics,27
+2018,2018,291020,Dentists,TRUE,TRUE,1411,287387.832,151438.9752,922.2235668,18,Math & Statistics,27
+2018,2018,291210,Physicians,TRUE,TRUE,10400,245660.9352,41248.17503,2503.665602,107,Math & Statistics,27
+2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,5849,249104.424,73623.47171,1877.617282,47,Math & Statistics,27
+2018,2018,1320XX,Other financial specialists,TRUE,TRUE,989,69877.06067,58653.28611,772.0962942,10,Visual & Performing Arts,50
+2018,2018,291020,Dentists,TRUE,TRUE,896,95597.91629,51373.87321,734.8986712,10,Visual & Performing Arts,50
+2018,2018,291210,Physicians,TRUE,TRUE,10068,203349.1524,43149.77978,2463.381858,94,Visual & Performing Arts,50
+2018,2018,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3030,119667.8845,58743.68161,1351.424139,29,Visual & Performing Arts,50
+2017,2017,291020,Dentists,TRUE,TRUE,1462,190172.0034,84716.19027,938.7421012,17,Language & Linguistics,16
+2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,776,115923.1778,57043.75206,683.9187,10,Language & Linguistics,16
+2017,2017,291020,Dentists,TRUE,TRUE,1279,148550.7021,127161.0545,878.0275655,13,Math & Statistics,27
+2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1565,218016.8716,105087.0158,971.2468628,20,Math & Statistics,27
+2017,2017,291020,Dentists,TRUE,TRUE,943,231732.5673,125844.6167,753.9268646,11,Visual & Performing Arts,50
+2017,2017,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,4224,162685.6326,67737.99969,1595.623794,34,Visual & Performing Arts,50
+2016,2016,291020,Dentists,TRUE,TRUE,922,127125.4772,81673.66437,745.4848846,10,Language & Linguistics,16
+2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,826,94657.16102,65460.2728,705.6080854,9,Language & Linguistics,16
+2016,2016,291020,Dentists,TRUE,TRUE,1321,110957.4822,51704.79171,892.3273296,14,Math & Statistics,27
+2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,2957,390120.5566,98971.84419,1335.045307,20,Math & Statistics,27
+2016,2016,291020,Dentists,TRUE,TRUE,1316,137242.0623,47031.40514,890.6370094,13,Visual & Performing Arts,50
+2016,2016,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1812,114493.1358,47995.9012,1045.08388,18,Visual & Performing Arts,50
+2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,655,179368.4198,145804.2992,628.3395792,7,Cultural & Gender Studies,5
+2015,2015,291020,Dentists,TRUE,TRUE,975,219190.3508,112167.5297,766.6119594,11,Language & Linguistics,16
+2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,721,239682.6033,77536.28561,659.2365824,7,Language & Linguistics,16
+2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,392,65434.64796,54078.63843,486.0905729,5,Legal,22
+2015,2015,291020,Dentists,TRUE,TRUE,1808,198238.0885,96896.35911,1043.929653,20,Math & Statistics,27
+2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3159,196700.4175,85543.60855,1379.891019,30,Math & Statistics,27
+2015,2015,291020,Dentists,TRUE,TRUE,1600,80122.39563,31697.95943,982.047122,11,Visual & Performing Arts,50
+2015,2015,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1783,114784.2715,82974.71809,1036.687186,22,Visual & Performing Arts,50
+2014,2014,291020,Dentists,TRUE,TRUE,996,116483.012,71846.43726,774.8236925,11,Language & Linguistics,16
+2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,1500,162264.9987,81881.61927,950.8632777,15,Language & Linguistics,16
+2014,2014,291020,Dentists,TRUE,TRUE,2692,176611.4796,48795.36949,1273.820212,21,Math & Statistics,27
+2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,2768,169665.6499,72219.54597,1291.675831,22,Math & Statistics,27
+2014,2014,291020,Dentists,TRUE,TRUE,697,160585.528,124315.1011,648.1717115,9,Visual & Performing Arts,50
+2014,2014,413031,"Securities, commodities, & financial services sales agents",TRUE,TRUE,3215,154763.2824,74539.88483,1392.067486,31,Visual & Performing Arts,50

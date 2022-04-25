@@ -1,0 +1,49 @@
+ID Year,Year,Admissions Total,Applicants Total,University,ID University,Slug University,Acceptance Rate
+2019,2019,3298527,6478970,Doctoral Universities,DOC,doctoral-universities,0.509112868
+2019,2019,1705961,4087803,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.417329553
+2019,2019,5431,42185,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.128742444
+2019,2019,9679,35552,Boston College,164924,boston-college,0.2722491
+2019,2019,14883,64972,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.229067906
+2019,2019,12873,79462,New York University,193900,new-york-university,0.162001963
+2019,2019,6430,21642,University of Rochester,195030,university-of-rochester,0.297107476
+2019,2019,9778,40839,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.239427998
+2018,2018,3133305,6249504,Doctoral Universities,DOC,doctoral-universities,0.501368589
+2018,2018,1617096,3918937,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.412636386
+2018,2018,6725,38816,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.173253298
+2018,2018,8669,31084,Boston College,164924,boston-college,0.278889461
+2018,2018,14818,64917,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.228260702
+2018,2018,14359,71834,New York University,193900,new-york-university,0.199891416
+2018,2018,6253,21255,University of Rochester,195030,university-of-rochester,0.294189602
+2018,2018,9828,37182,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.264321446
+2017,2017,2993147,5866784,Doctoral Universities,DOC,doctoral-universities,0.510185308
+2017,2017,1560801,3639053,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.428903069
+2017,2017,7657,35622,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.214951435
+2017,2017,9223,28454,Boston College,164924,boston-college,0.324137204
+2017,2017,15871,59886,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.265020205
+2017,2017,17707,64007,New York University,193900,new-york-university,0.276641617
+2017,2017,6520,19058,University of Rochester,195030,university-of-rochester,0.342113548
+2017,2017,10058,36779,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.273471274
+2016,2016,2898894,5699643,Doctoral Universities,DOC,doctoral-universities,0.50860975
+2016,2016,1524214,3495663,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.436030018
+2016,2016,8162,32006,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.255014685
+2016,2016,9017,28956,Boston College,164924,boston-college,0.311403509
+2016,2016,15871,55504,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.285943355
+2016,2016,19351,60724,New York University,193900,new-york-university,0.318671366
+2016,2016,6213,17485,University of Rochester,195030,university-of-rochester,0.355333143
+2016,2016,9668,32377,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.298607036
+2015,2015,2760071,5431505,Doctoral Universities,DOC,doctoral-universities,0.508159525
+2015,2015,1435807,3303487,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.434633767
+2015,2015,8008,26257,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.304985337
+2015,2015,8405,29486,Boston College,164924,boston-college,0.285050532
+2015,2015,13611,51797,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.262775836
+2015,2015,18515,57727,New York University,193900,new-york-university,0.320733799
+2015,2015,6058,17912,University of Rochester,195030,university-of-rochester,0.338209022
+2015,2015,9186,30840,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.297859922
+2014,2014,2657931,5180823,Doctoral Universities,DOC,doctoral-universities,0.513032582
+2014,2014,1384300,3146518,Doctoral Universities: Highest Research Activity,15,doctoral-universities-highest-research-activity,0.439946633
+2014,2014,8078,28901,Tulane University of Louisiana,160755,tulane-university-of-louisiana,0.279505899
+2014,2014,7875,23223,Boston College,164924,boston-college,0.339103475
+2014,2014,16047,49776,University of Michigan-Ann Arbor,170976,university-of-michigan-ann-arbor,0.322384282
+2014,2014,18010,50804,New York University,193900,new-york-university,0.354499646
+2014,2014,6345,17428,University of Rochester,195030,university-of-rochester,0.364069314
+2014,2014,8997,31021,University of Virginia-Main Campus,234076,university-of-virginia-main-campus,0.290029335

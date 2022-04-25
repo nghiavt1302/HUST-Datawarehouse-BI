@@ -1,0 +1,81 @@
+ID Gender,Gender,ID Year,Year,ID University,University,ID CIP6,CIP6,Completions,Slug University
+1,Men,2019,2019,193900,New York University,110101,General Computer & Information Sciences,648,new-york-university
+1,Men,2019,2019,193900,New York University,240101,Liberal Arts & Sciences,193,new-york-university
+1,Men,2019,2019,193900,New York University,440701,Social Work,80,new-york-university
+1,Men,2019,2019,193900,New York University,520201,General Business Administration & Management,651,new-york-university
+1,Men,2019,2019,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",131,new-york-university
+2,Women,2019,2019,193900,New York University,110101,General Computer & Information Sciences,243,new-york-university
+2,Women,2019,2019,193900,New York University,240101,Liberal Arts & Sciences,406,new-york-university
+2,Women,2019,2019,193900,New York University,440701,Social Work,493,new-york-university
+2,Women,2019,2019,193900,New York University,520201,General Business Administration & Management,394,new-york-university
+2,Women,2019,2019,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",403,new-york-university
+1,Men,2018,2018,193900,New York University,110101,General Computer & Information Sciences,543,new-york-university
+1,Men,2018,2018,193900,New York University,240101,Liberal Arts & Sciences,190,new-york-university
+1,Men,2018,2018,193900,New York University,440701,Social Work,109,new-york-university
+1,Men,2018,2018,193900,New York University,520201,General Business Administration & Management,702,new-york-university
+1,Men,2018,2018,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",138,new-york-university
+2,Women,2018,2018,193900,New York University,110101,General Computer & Information Sciences,211,new-york-university
+2,Women,2018,2018,193900,New York University,240101,Liberal Arts & Sciences,414,new-york-university
+2,Women,2018,2018,193900,New York University,440701,Social Work,516,new-york-university
+2,Women,2018,2018,193900,New York University,520201,General Business Administration & Management,378,new-york-university
+2,Women,2018,2018,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",370,new-york-university
+1,Men,2017,2017,193900,New York University,110101,General Computer & Information Sciences,482,new-york-university
+1,Men,2017,2017,193900,New York University,240101,Liberal Arts & Sciences,167,new-york-university
+1,Men,2017,2017,193900,New York University,440701,Social Work,99,new-york-university
+1,Men,2017,2017,193900,New York University,520201,General Business Administration & Management,694,new-york-university
+1,Men,2017,2017,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",88,new-york-university
+2,Women,2017,2017,193900,New York University,110101,General Computer & Information Sciences,153,new-york-university
+2,Women,2017,2017,193900,New York University,240101,Liberal Arts & Sciences,393,new-york-university
+2,Women,2017,2017,193900,New York University,440701,Social Work,513,new-york-university
+2,Women,2017,2017,193900,New York University,520201,General Business Administration & Management,376,new-york-university
+2,Women,2017,2017,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",266,new-york-university
+1,Men,2016,2016,193900,New York University,110101,General Computer & Information Sciences,475,new-york-university
+1,Men,2016,2016,193900,New York University,240101,Liberal Arts & Sciences,198,new-york-university
+1,Men,2016,2016,193900,New York University,440701,Social Work,83,new-york-university
+1,Men,2016,2016,193900,New York University,520201,General Business Administration & Management,825,new-york-university
+1,Men,2016,2016,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",90,new-york-university
+2,Women,2016,2016,193900,New York University,110101,General Computer & Information Sciences,125,new-york-university
+2,Women,2016,2016,193900,New York University,240101,Liberal Arts & Sciences,419,new-york-university
+2,Women,2016,2016,193900,New York University,440701,Social Work,536,new-york-university
+2,Women,2016,2016,193900,New York University,520201,General Business Administration & Management,412,new-york-university
+2,Women,2016,2016,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",260,new-york-university
+1,Men,2015,2015,193900,New York University,110101,General Computer & Information Sciences,507,new-york-university
+1,Men,2015,2015,193900,New York University,240101,Liberal Arts & Sciences,179,new-york-university
+1,Men,2015,2015,193900,New York University,440701,Social Work,83,new-york-university
+1,Men,2015,2015,193900,New York University,520201,General Business Administration & Management,925,new-york-university
+1,Men,2015,2015,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",54,new-york-university
+2,Women,2015,2015,193900,New York University,110101,General Computer & Information Sciences,164,new-york-university
+2,Women,2015,2015,193900,New York University,240101,Liberal Arts & Sciences,349,new-york-university
+2,Women,2015,2015,193900,New York University,440701,Social Work,480,new-york-university
+2,Women,2015,2015,193900,New York University,520201,General Business Administration & Management,503,new-york-university
+2,Women,2015,2015,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",186,new-york-university
+1,Men,2014,2014,193900,New York University,110101,General Computer & Information Sciences,344,new-york-university
+1,Men,2014,2014,193900,New York University,240101,Liberal Arts & Sciences,173,new-york-university
+1,Men,2014,2014,193900,New York University,440701,Social Work,74,new-york-university
+1,Men,2014,2014,193900,New York University,520201,General Business Administration & Management,903,new-york-university
+1,Men,2014,2014,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",115,new-york-university
+2,Women,2014,2014,193900,New York University,110101,General Computer & Information Sciences,91,new-york-university
+2,Women,2014,2014,193900,New York University,240101,Liberal Arts & Sciences,416,new-york-university
+2,Women,2014,2014,193900,New York University,440701,Social Work,491,new-york-university
+2,Women,2014,2014,193900,New York University,520201,General Business Administration & Management,501,new-york-university
+2,Women,2014,2014,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",202,new-york-university
+1,Men,2013,2013,193900,New York University,110101,General Computer & Information Sciences,186,new-york-university
+1,Men,2013,2013,193900,New York University,240101,Liberal Arts & Sciences,160,new-york-university
+1,Men,2013,2013,193900,New York University,440701,Social Work,85,new-york-university
+1,Men,2013,2013,193900,New York University,520201,General Business Administration & Management,875,new-york-university
+1,Men,2013,2013,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",66,new-york-university
+2,Women,2013,2013,193900,New York University,110101,General Computer & Information Sciences,51,new-york-university
+2,Women,2013,2013,193900,New York University,240101,Liberal Arts & Sciences,388,new-york-university
+2,Women,2013,2013,193900,New York University,440701,Social Work,516,new-york-university
+2,Women,2013,2013,193900,New York University,520201,General Business Administration & Management,421,new-york-university
+2,Women,2013,2013,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",155,new-york-university
+1,Men,2012,2012,193900,New York University,110101,General Computer & Information Sciences,142,new-york-university
+1,Men,2012,2012,193900,New York University,240101,Liberal Arts & Sciences,162,new-york-university
+1,Men,2012,2012,193900,New York University,440701,Social Work,84,new-york-university
+1,Men,2012,2012,193900,New York University,520201,General Business Administration & Management,935,new-york-university
+1,Men,2012,2012,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",42,new-york-university
+2,Women,2012,2012,193900,New York University,110101,General Computer & Information Sciences,38,new-york-university
+2,Women,2012,2012,193900,New York University,240101,Liberal Arts & Sciences,346,new-york-university
+2,Women,2012,2012,193900,New York University,440701,Social Work,506,new-york-university
+2,Women,2012,2012,193900,New York University,520201,General Business Administration & Management,542,new-york-university
+2,Women,2012,2012,193900,New York University,521801,"General Sales, Distribution, & Marketing Operations",98,new-york-university

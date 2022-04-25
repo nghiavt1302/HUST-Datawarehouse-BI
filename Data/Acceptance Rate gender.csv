@@ -1,0 +1,13 @@
+ID Year,Year,ID University,University,Applicants Men,Applicants Women,Admissions Men,Admissions Women,Slug University,Gender,ID Gender,Admissions,Applicants,Rate
+2019,2019,193900,New York University,32065,47397,5234,7639,new-york-university,Men,1,5234,32065,0.163230937
+2019,2019,193900,New York University,32065,47397,5234,7639,new-york-university,Women,2,7639,47397,0.161170538
+2018,2018,193900,New York University,29356,42478,5869,8490,new-york-university,Men,1,5869,29356,0.199925058
+2018,2018,193900,New York University,29356,42478,5869,8490,new-york-university,Women,2,8490,42478,0.199868167
+2017,2017,193900,New York University,26357,37650,7360,10347,new-york-university,Men,1,7360,26357,0.279242706
+2017,2017,193900,New York University,26357,37650,7360,10347,new-york-university,Women,2,10347,37650,0.274820717
+2016,2016,193900,New York University,24750,35974,7921,11430,new-york-university,Men,1,7921,24750,0.320040404
+2016,2016,193900,New York University,24750,35974,7921,11430,new-york-university,Women,2,11430,35974,0.317729471
+2015,2015,193900,New York University,23728,33682,7691,10824,new-york-university,Men,1,7691,23728,0.324131827
+2015,2015,193900,New York University,23728,33682,7691,10824,new-york-university,Women,2,10824,33682,0.321358589
+2014,2014,193900,New York University,20966,29838,7685,10325,new-york-university,Men,1,7685,20966,0.366545836
+2014,2014,193900,New York University,20966,29838,7685,10325,new-york-university,Women,2,10325,29838,0.346035257
